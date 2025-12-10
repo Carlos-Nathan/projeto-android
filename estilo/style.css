@@ -148,7 +148,7 @@ main h2 {
     font-weight: normal;
     background-image: linear-gradient(to right, rgba(145, 255, 145, 0.699) 40%, rgb(255, 255, 236), white);
     text-indent: 8px;
-    min-width: 519px;
+    min-width: 300px;
 }
 
 img {
